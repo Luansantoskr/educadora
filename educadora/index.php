@@ -18,12 +18,12 @@
 							<h1 id="title">Rádio educadora Crateús</h1>
 							<p>Do jeito que você gosta</p>
 						</div>
-
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
 								<li><a href="#top" id="top-link"><span class="icon solid fa-home">Inicio</span></a></li>
 								<li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-th">Portfolio</span></a></li>
+								<li><a href="#equipe" id="about-link"><span class="icon solid fa-users">Nossa equipe</span></a></li>
 								<li><a href="#about" id="about-link"><span class="icon solid fa-user">Sobre nós</span></a></li>
 								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contatos</span></a></li>
 							</ul>
@@ -35,10 +35,10 @@
 
 					<!-- Social Icons -->
 						<ul class="icons">
-							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+							<li><a href="https://mail.google.com/mail/u/0/?ogbl#inbox" class="icon solid fa-envelope"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/radioeducadoradecrateus/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/radio_educadora/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://api.whatsapp.com/send?1=pt_BR&phone=5588992911418" class="icon solid fa-phone"><span class="label">Email</span></a></li>
 						</ul>
 
 				</div>
@@ -53,8 +53,8 @@
 						<div class="container">
 
 							<header>
-								<h2 class="alt"><strong>Rádio educadora</strong><a href="#"></a><br />
-								<strong>Do jeito que você gosta.</strong></h2>
+								<h2 class="alt"><img src="educadora.png" alt=""><a href="#"></a><br />
+								</h2>
 							</header>
 
 							<footer>
@@ -72,53 +72,123 @@
 								<h2>Portfolio</h2>
 							</header>
 
-							<p>Conheça alguns de nossos serviços, nossos horários e nossa equipe.</p>
+							<p>Conheça alguns de nossos serviços</p>
 
 							<div class="row">
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="images/flash.jpeg" alt="" /></a>
 										<header>
-											<h3>Serviços</h3>
+											<h3>Flash</h3>
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="images/.jpeg" alt="" /></a>
 										<header>
-											<h3>Equipe</h3>
-										</header>
-									</article>
-								</div>
-								<div class="col-4 col-12-mobile">
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
-										<header>
-											<h3>Horários</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
-										<header>
-											<h3></h3>
+											<h3>Vídeo institucional</h3>
 										</header>
 									</article>
 								</div>
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="images/propaganda.jpeg" alt="" /></a>
 										<header>
-											<h3></h3>
+											<h3>Propaganda no rádio</h3>
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+										<a href="#" class="image fit"><img src="images/visitas.jpeg" alt="" /></a>
 										<header>
-											<h3></h3>
+											<h3>Visitas semanais</h3>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/sociais.jpeg" alt="" /></a>
+										<header>
+											<h3>Divulgação em redes sociais</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/participacao.jpeg" alt="" /></a>
+										<header>
+											<h3>Participação ao vivo no estúdio</h3>
 										</header>
 									</article>
 								</div>
 							</div>
 
+						</div>
+					</section>
+					<section id="equipe" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Nossa equipe</h2>
+							</header>
+
+							<p>Conheça a equipe que compõe a rádio Educadora Crateús</p>
+
+							<div class="row">
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/olavo.jpeg"/></a>
+										<header>
+											<h3 class="tit">Lourival Rodrigues</h3>
+											<p>Superintendente</p>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/messias.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Messias Moreira</h3>
+											<p>Diretor geral</p>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/assis.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Assis Moreira</h3>
+											<p>Repórter e locutor</p>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/olavo.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Olavo Júnior</h3>
+											<p>Produtor</p>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/samila.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Samila Gomes</h3>
+											<p>Repórter</p>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/reginaldo.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Reginaldo Oliveira</h3>
+											<P>Repórter policial</P>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/olavo.jpeg" alt="" /></a>
+										<header>
+										<h3 class="tit">Gabriel Rodrigues</h3>
+										<p>Locutor e operador</p>
+										</header>
+									</article>
+								</div>
+							</div>
 						</div>
 					</section>
 
