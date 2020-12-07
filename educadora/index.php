@@ -18,12 +18,13 @@
 							<h1 id="title">Rádio educadora Crateús</h1>
 							<p>Do jeito que você gosta</p>
 						</div>
-
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
 								<li><a href="#top" id="top-link"><span class="icon solid fa-home">Inicio</span></a></li>
 								<li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-th">Portfolio</span></a></li>
+								<li><a href="#programacao" id="programacao-link"><span class="icon solid fa-th">Programação da educadora</span></a></li>
+								<li><a href="#equipe" id="equipe-link"><span class="icon solid fa-users">Nossa equipe</span></a></li>
 								<li><a href="#about" id="about-link"><span class="icon solid fa-user">Sobre nós</span></a></li>
 								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contatos</span></a></li>
 							</ul>
@@ -35,10 +36,10 @@
 
 					<!-- Social Icons -->
 						<ul class="icons">
-							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+							<li><a href="https://mail.google.com/mail/u/0/?ogbl#inbox" class="icon solid fa-envelope"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/radioeducadoradecrateus/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/radio_educadora/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://api.whatsapp.com/send?1=pt_BR&phone=5588992911418" class="icon solid fa-phone"><span class="label">Email</span></a></li>
 						</ul>
 
 				</div>
@@ -53,12 +54,12 @@
 						<div class="container">
 
 							<header>
-								<h2 class="alt"><strong>Rádio educadora</strong><a href="#"></a><br />
-								<strong>Do jeito que você gosta.</strong></h2>
+							<img src="images/logo.png" alt="" style="width:200px;height:200px;">
+								
 							</header>
 
 							<footer>
-								<a href="#portfolio" class="button scrolly">Conheça mais</a>
+								<a href="#portfolio" class="button scrolly">Conheça a rádio educadora</a>
 							</footer>
 
 						</div>
@@ -72,53 +73,161 @@
 								<h2>Portfolio</h2>
 							</header>
 
-							<p>Conheça alguns de nossos serviços, nossos horários e nossa equipe.</p>
+							<p>Conheça alguns de nossos serviços</p>
 
 							<div class="row">
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+										<video width="320" height="240" controls>
+  											<source src="images/policial.mp4" type="video/mp4">
+  											<source src="movie.ogg" type="video/ogg">
+										</video>
 										<header>
-											<h3>Serviços</h3>
+											<h3>Plantão policial</h3>
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+										<video width="320" height="240" controls>
+  											<source src="images/institucional.mp4" type="video/mp4">
+  											<source src="movie.ogg" type="video/ogg">
+										</video>
 										<header>
-											<h3>Equipe</h3>
+											<h3>Vídeo institucional</h3>
 										</header>
 									</article>
 								</div>
 								<div class="col-4 col-12-mobile">
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+								<article class="item">
+										<video width="320" height="240" controls>
+  											<source src="images/jornalismo.mp4" type="video/mp4">
+  											<source src="movie.ogg" type="video/ogg">
+										</video>
 										<header>
-											<h3>Horários</h3>
+											<h3>Jornalismo na rádio educadora</h3>
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+										<video width="320" height="240" controls>
+  											<source src="images/musical.mp4" type="video/mp4">
+  											<source src="movie.ogg" type="video/ogg">
+										</video>
 										<header>
-											<h3></h3>
+											<h3>Programa musical com brindes</h3>
 										</header>
 									</article>
 								</div>
 								<div class="col-4 col-12-mobile">
-									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+								<article class="item">
+										<video width="320" height="240" controls>
+  											<source src="images/prefeito.mp4" type="video/mp4">
+  											<source src="movie.ogg" type="video/ogg">
+										</video>
 										<header>
-											<h3></h3>
+											<h3>Entrevista com o prefeito Marcelo Machado na Rádio Educadora de Crateús</h3>
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+										<video width="320" height="240" controls>
+  											<source src="images/pista.mp4" type="video/mp4">
+  											<source src="movie.ogg" type="video/ogg">
+										</video>
 										<header>
-											<h3></h3>
+											<h3>Reportagem de pista em tempo real</h3>
 										</header>
 									</article>
-								</div>
+								</div>		
 							</div>
 
+						</div>
+					</section>
+					<section id="programacao" class="three">
+						<div class="container">
+
+							<header>
+								<h2>Programação da educadora</h2>
+							</header>
+
+
+							<p>04:00 Café com Vieirão <br>
+							05:30 Jornal da Educadora <br>
+							07:30 Nossa Manhã da Educadora <br>
+							10:00 Experiência com Deus <br>
+							11:00 Parada dos esportes <br>
+							12:00 Cidade Aflita <br>
+							14:00 A tarde é nossa <br>
+							16:00 Forrozão da Educadora com Vieirão<br>
+							19:00 A voz do Brasil <br>
+							21:00 Estação Educadora <br>
+							23:00 Encerramento </p>
+
+							<h3>Programação de sábado</h3>
+							<p>15:00 Boteco da Educadora <br>
+							18:00 encerramento</p>
+
+						</div>
+					</section>
+					<section id="equipe" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Nossa equipe</h2>
+							</header>
+
+							<p>Conheça a equipe que compõe a rádio Educadora Crateús</p>
+
+							<div class="row">
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/lourival.jpeg"/></a>
+										<header>
+											<h3 class="tit">Lourival Rodrigues</h3>
+											<p>Superintendente</p>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/messias.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Messias Moreira</h3>
+											<p>Diretor geral</p>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/assis.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Assis Moreira</h3>
+											<p>Repórter e locutor</p>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/olavo.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Olavo Júnior</h3>
+											<p>Produtor</p>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/samila.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Samila Gomes</h3>
+											<p>Repórter</p>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/rogerio.jpeg" alt="" /></a>
+										<header>
+										<h3 class="tit">Rogério Sampaio</h3>
+										<p>Locutor</p>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									
+								</div>
+							</div>
 						</div>
 					</section>
 
@@ -127,10 +236,10 @@
 						<div class="container">
 
 							<header>
-								<h2>Quem somos</h2>
+								<h2>Sobre nós</h2>
 							</header>
 
-							<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+							<a href="#" class="image featured"><img src="images/capa.jpeg" alt="" /></a>
 
 							<p>Rádio Educadora de Crateús <br>
 							Rádio Educadora AM1250khz <br>
@@ -158,18 +267,8 @@
 
 							<p>Entre em contato para ver nossos serviços mais de perto</p>
 
-							<form method="post" action="#">
-								<div class="row">
-									<div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Nome" /></div>
-									<div class="col-6 col-12-mobile"><input type="text" name="email" placeholder="Email" /></div>
-									<div class="col-12">
-										<textarea name="message" placeholder="Mensagem"></textarea>
-									</div>
-									<div class="col-12">
-										<input type="submit" value="Enviar mensagem" />
-									</div>
-								</div>
-							</form>
+							<p>whatsapp: (88) 99291-1418</p>
+							<p>instagram: @radio_educadora</p>
 
 						</div>
 					</section>
