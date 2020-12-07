@@ -23,8 +23,7 @@
 							<ul>
 								<li><a href="#top" id="top-link"><span class="icon solid fa-home">Inicio</span></a></li>
 								<li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-th">Portfolio</span></a></li>
-								<li><a href="#programacao" id="programacao-link"><span class="icon solid fa-th">Programação da educadora</span></a></li>
-								<li><a href="#equipe" id="equipe-link"><span class="icon solid fa-users">Nossa equipe</span></a></li>
+								<li><a href="#equipe" id="about-link"><span class="icon solid fa-users">Nossa equipe</span></a></li>
 								<li><a href="#about" id="about-link"><span class="icon solid fa-user">Sobre nós</span></a></li>
 								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contatos</span></a></li>
 							</ul>
@@ -54,8 +53,13 @@
 						<div class="container">
 
 							<header>
+<<<<<<< HEAD
 							<img src="images/logo.png" alt="" style="width:200px;height:200px;">
 								
+=======
+								<h2 class="alt"><img src="educadora.png" alt=""><a href="#"></a><br />
+								</h2>
+>>>>>>> 6801821d1405f6aeab09d4cf754122bfb30c12f7
 							</header>
 
 							<footer>
@@ -78,6 +82,7 @@
 							<div class="row">
 								<div class="col-4 col-12-mobile">
 									<article class="item">
+<<<<<<< HEAD
 										<video width="320" height="240" controls>
   											<source src="images/policial.mp4" type="video/mp4">
   											<source src="movie.ogg" type="video/ogg">
@@ -91,6 +96,15 @@
   											<source src="images/institucional.mp4" type="video/mp4">
   											<source src="movie.ogg" type="video/ogg">
 										</video>
+=======
+										<a href="#" class="image fit"><img src="images/flash.jpeg" alt="" /></a>
+										<header>
+											<h3>Flash</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/.jpeg" alt="" /></a>
+>>>>>>> 6801821d1405f6aeab09d4cf754122bfb30c12f7
 										<header>
 											<h3>Vídeo institucional</h3>
 										</header>
@@ -107,6 +121,7 @@
 										</header>
 									</article>
 									<article class="item">
+<<<<<<< HEAD
 										<video width="320" height="240" controls>
   											<source src="images/musical.mp4" type="video/mp4">
   											<source src="movie.ogg" type="video/ogg">
@@ -205,6 +220,93 @@
 										<header>
 											<h3 class="tit">Olavo Júnior</h3>
 											<p>Produtor</p>
+=======
+										<a href="#" class="image fit"><img src="images/propaganda.jpeg" alt="" /></a>
+										<header>
+											<h3>Propaganda no rádio</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/visitas.jpeg" alt="" /></a>
+										<header>
+											<h3>Visitas semanais</h3>
+>>>>>>> 6801821d1405f6aeab09d4cf754122bfb30c12f7
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+<<<<<<< HEAD
+										<a href="#" class="image fit"><img src="images/samila.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Samila Gomes</h3>
+											<p>Repórter</p>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/rogerio.jpeg" alt="" /></a>
+										<header>
+										<h3 class="tit">Rogério Sampaio</h3>
+										<p>Locutor</p>
+=======
+										<a href="#" class="image fit"><img src="images/sociais.jpeg" alt="" /></a>
+										<header>
+											<h3>Divulgação em redes sociais</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/participacao.jpeg" alt="" /></a>
+										<header>
+											<h3>Participação ao vivo no estúdio</h3>
+>>>>>>> 6801821d1405f6aeab09d4cf754122bfb30c12f7
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									
+								</div>
+							</div>
+						</div>
+					</section>
+					<section id="equipe" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Nossa equipe</h2>
+							</header>
+
+							<p>Conheça a equipe que compõe a rádio Educadora Crateús</p>
+
+							<div class="row">
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/olavo.jpeg"/></a>
+										<header>
+											<h3 class="tit">Lourival Rodrigues</h3>
+											<p>Superintendente</p>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/messias.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Messias Moreira</h3>
+											<p>Diretor geral</p>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/assis.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Assis Moreira</h3>
+											<p>Repórter e locutor</p>
+										</header>
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/olavo.jpeg" alt="" /></a>
+										<header>
+											<h3 class="tit">Olavo Júnior</h3>
+											<p>Produtor</p>
 										</header>
 									</article>
 								</div>
@@ -217,15 +319,21 @@
 										</header>
 									</article>
 									<article class="item">
-										<a href="#" class="image fit"><img src="images/rogerio.jpeg" alt="" /></a>
+										<a href="#" class="image fit"><img src="images/reginaldo.jpeg" alt="" /></a>
 										<header>
-										<h3 class="tit">Rogério Sampaio</h3>
-										<p>Locutor</p>
+											<h3 class="tit">Reginaldo Oliveira</h3>
+											<P>Repórter policial</P>
 										</header>
 									</article>
 								</div>
 								<div class="col-4 col-12-mobile">
-									
+									<article class="item">
+										<a href="#" class="image fit"><img src="images/olavo.jpeg" alt="" /></a>
+										<header>
+										<h3 class="tit">Gabriel Rodrigues</h3>
+										<p>Locutor e operador</p>
+										</header>
+									</article>
 								</div>
 							</div>
 						</div>
